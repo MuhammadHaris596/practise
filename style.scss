@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+.mywidth{
+width: 42%;
+}
+
+
+.parent-cont{
+
+    width: 58%;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    padding: 4%;
+    border-radius: 15px;
+}
+
+.myBorder{
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 2%;
+}
+
+.dashboardBody{
+    background-image: url(./gradient-abstract-wireframe-background_23-2149020364.avif);
+    color: white;
+    background-size:cover;
+
+}
+
+.indexBody{
+    background-image: url(./gradient-abstract-wireframe-background_23-2149009903.avif);
+    color: white;
+    background-size:cover;
+   
+}
+
+.loginBody{
+    background-image: url('./application-pc-and-smartphone-with-business-vector-29570430.avif');
+    color: white;
+    background-size:cover;
+}
